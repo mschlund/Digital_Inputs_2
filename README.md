@@ -12,3 +12,5 @@ $ cd Digital_Inputs_2
 $ make
 
 and then build and flash the Digital_Inputs_2.ino with your favorite Arduino-IDE.
+
+Blogpost: https://maximilianschlund.wordpress.com/2020/11/13/lesson-3b-digital-input-double-click-detection/
